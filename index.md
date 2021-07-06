@@ -13,7 +13,7 @@ I know Too Good To Go has a headquarters in New York as well and I would be happ
 
 My resume can tell you more about this or you can also check out my [Github](https://github.com/Bench-amblee?tab=repositories) to see what I've been working on. 
 
-I'm particularly proud of this project which uses spatial data to analyze how the land cover has changed in NYC: https://share.streamlit.io/bench-amblee/arcpy/main/nyc_site.py
+I'm particularly proud of this project which uses spatial data to analyze how the land cover has changed in NYC: [Click me!](https://share.streamlit.io/bench-amblee/arcpy/main/nyc_site.py)
 
 I can confidently work on any project that involves
 - Python, including libraries like pandas, numpy, matplotlib, streamlit, and seaborn
