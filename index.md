@@ -1,11 +1,15 @@
 ## Hello!
 
 ### My name is Ben    
-This is my cover letter for Lumen Learning, a company that I would absolutely love to work at! Your mission of enabling unprecedented learning for all students is one that really resonates with me.
+This is my cover letter for Too Good To Go, a company that I would absolutely love to work at! Your mission of taking action against food waste is one that really resonates with me.
 
-As someone who spent their last semester of college "learning" through Zoom lectures and take-home-tests, I know what it's like to not have the best classroom experience. Lumen's resources for teachers and students are a great way to improve this experience, I'd love to help get these resources to teachers and students all over to make sure the learning experience is a positive one for everyone.
+I learned about Too Good To Go after meeting one of the ambassadors in Austin, TX. I've been working in food service since I was 16 and have always hated how much food those businesses throw away. My solution was to just take food home or give it away to my friends instead of throwing it out, unfortunately this solution isn't very scalable. When I learned about what Too Good To Go was trying to do I logged on to LinkedIn and immediately starting looking at open positions - I love what you're trying to do and would love to be a part of it.
 
-### What would make me a good python developer or data analyst?
+I believe my background in geographic information systems along with my current experience in Python and data science would make me a great fit for either the Analytics Engineer or BI Developer position - wherever I could help the most. The only issue is I'm currently located in the US and, unfortunately, don't think I will be able to relocate to Denmark. 
+
+I know Too Good To Go has a headquarters in New York as well and I would be happy to relocate there if that is an option. I believe these roles would the perfect way for me to contribute and if you give me the chance to work remotely or in one of the US headquarters, I will make it work. Luckily I have experience working remotely with a team across multiple timezones and understand the importance of communication.
+
+### What would make me a good Analytics Engineer or BI Developer
 Good question! I've been using python for a little over two years ago, but I really got into it after quarantine started. I also took some probability and statistics classes while studying at UT. I used those skills to get accepted into an online data science bootcamp which I'm finishing up now!
 
 My resume can tell you more about this or you can also check out my [Github](https://github.com/Bench-amblee?tab=repositories) to see what I've been working on. 
