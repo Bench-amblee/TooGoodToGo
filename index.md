@@ -9,7 +9,7 @@ I believe my background in geographic information systems along with my current 
 
 I know Too Good To Go has a headquarters in New York as well and I would be happy to relocate there if that is an option. I believe these roles would the perfect way for me to contribute and if you give me the chance to work remotely or in one of the US headquarters, I will make it work. Luckily I have experience working remotely with a team across multiple timezones and understand the importance of communication.
 
-### What would make me a good Analytics Engineer or BI Developer
+### What would make me a good Analytics Engineer or BI Developer?
 
 My resume can tell you more about this or you can also check out my [Github](https://github.com/Bench-amblee?tab=repositories) to see what I've been working on. 
 
