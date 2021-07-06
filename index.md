@@ -3,7 +3,7 @@
 ### My name is Ben    
 This is my cover letter for Too Good To Go, a company that I would absolutely love to work at! Your mission of taking action against food waste is one that really resonates with me.
 
-I learned about Too Good To Go after meeting one of the ambassadors in Austin, TX. I've been working in food service since I was 16 and have always hated how much food those businesses throw away. My solution was to just take food home or give it away to my friends instead of throwing it out, unfortunately this solution isn't very scalable. When I learned about what Too Good To Go was trying to do I logged on to LinkedIn and immediately starting looking at open positions - I love what you're doing and would love to be a part of it.
+I learned about Too Good To Go after meeting one of the ambassadors in Austin, TX. I've been working in food service since I was 16 and have always hated how much food those businesses throw away. My solution was to just take food home or give it away to my friends instead of throwing it out, unfortunately this solution isn't very scalable. When I learned about Too Good To Go I logged on to LinkedIn and immediately starting looking at open positions - I love what you're doing and would love to be a part of it.
 
 I believe my background in geographic information systems along with my current experience in Python and data science would make me a great fit for either the Analytics Engineer or BI Developer position - wherever I could help the most. The only issue is I'm currently located in the US and, unfortunately, don't think I will be able to relocate to Denmark. 
 
